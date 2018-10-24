@@ -1,0 +1,14 @@
+{
+  "name": "cls3",
+  "version": "1.0.0",
+  "description": "cls3 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raju",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
